@@ -1,0 +1,31 @@
+body{
+     background-color: #ee6c4d;
+}
+
+.square{
+
+    margin: 70px auto;
+    width: 600px;
+    height: 600px;
+    background-color: bisque;
+    border: solid black 4px;
+  
+}
+
+.green{
+    width: 150px;
+    height: 150px;
+    background-color: #2a9d8f;
+    border: solid white 4px;
+    margin: 0px auto;
+}
+
+.big{
+    width: 450px;
+    border: dashed white 4px;
+}
+
+.small{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
